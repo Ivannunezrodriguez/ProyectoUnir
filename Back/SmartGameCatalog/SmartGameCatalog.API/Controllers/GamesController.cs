@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 using SmartGameCatalog.API.Model;
 
 
-[Route("api/games")]
+[Route("games")]
 [ApiController]
 public class GamesController : ControllerBase
 {

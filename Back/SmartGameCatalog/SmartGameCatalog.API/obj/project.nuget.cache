@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "n2VF9TSceCc=",
+  "dgSpecHash": "QWpnDi1O78Q=",
   "success": true,
-  "projectFilePath": "D:\\drive ivan\\Curso DAM daw\\UNIR\\2_curso\\Proyecto\\Back\\SmartGameCatalog\\SmartGameCatalog.API\\SmartGameCatalog.API.csproj",
+  "projectFilePath": "D:\\drive ivan\\Curso DAM daw\\UNIR\\2_curso\\ProyectoUnir-limpio\\Back\\SmartGameCatalog\\SmartGameCatalog.API\\SmartGameCatalog.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ivann\\.nuget\\packages\\dapper\\2.1.66\\dapper.2.1.66.nupkg.sha512",
     "C:\\Users\\ivann\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

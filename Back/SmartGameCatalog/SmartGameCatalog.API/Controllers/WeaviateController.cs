@@ -3,7 +3,7 @@ using SmartGameCatalog.API.Services;
 
 namespace SmartGameCatalog.API.Controllers
 {
-    [Route("api/weaviate")]
+    [Route("weaviate")]
     [ApiController]
     public class WeaviateController : ControllerBase
     {

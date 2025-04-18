@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using SmartGameCatalog.API.Model;
 
-[Route("api/ratings")]
+[Route("ratings")]
 [ApiController]
 public class RatingsController : ControllerBase
 {

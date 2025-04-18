@@ -3,7 +3,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using SmartGameCatalog.API.Model;
 
-[Route("api/users")]
+[Route("users")]
 [ApiController]
 public class UsersController : ControllerBase
 {
